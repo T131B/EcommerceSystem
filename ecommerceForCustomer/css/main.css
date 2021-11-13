@@ -1,0 +1,13 @@
+body{
+    background-color:#E4D4C8;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+    background-color: #A47551;
+    color: azure;
+} 
+.h1{
+    color: #523A28;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
